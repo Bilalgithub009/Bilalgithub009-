@@ -9,10 +9,12 @@
 
 ---
 
+---
+
 <table>
   <tr>
-    <td width="80%">
-    
+    <td width="58%">
+
 <h3>🔥 About Me</h3>
 
 - 🔭 I’m currently working on <strong>React + Tailwind Projects</strong>  
@@ -22,13 +24,16 @@
 - 📫 Reach me at: <strong>bilalahmed009dev@gmail.com</strong>  
 
 </td>
-<td>
+<td align="center" width="42%">
 
-<img src="https://camo.githubusercontent.com/bc425a5c4e99161dca81a32820bad4d14290d90de6308f16eb8e1d904526f5ab/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44353631324151474f6d77664945356d6c57412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3732305f313238302f302f313637343631373934373232383f653d3231343734383336343726763d6265746126743d4654555f697351365659665635445f7565464850577654385a716744654a47337972384d69386c70666b30" width="300" />
+<img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="300" alt="dev-coding" />
 
 </td>
-</tr>
+  </tr>
 </table>
+
+---
+
 
 ---
 
