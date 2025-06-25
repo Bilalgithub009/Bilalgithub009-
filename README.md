@@ -7,21 +7,30 @@
 
 ---
 
-### 🔥 About Me
-- 🔭 I’m currently working on **React + Tailwind Projects**
-- 🌱 Exploring **AI tools + Frontend integration API,S Integeration**
-- 💬 Ask me about **JavaScript, React.js, CSS3, Tailwind ShadCN Material UI React UI**
-- ⚡ Fun fact: I love turning Figma designs into real responsive UI
-- 📫 Reach me at: **m.bilaljaliyawala@gmail.com**
-
 ---
 
+<table>
+  <tr>
+    <td width="60%">
+    
+<h3>🔥 About Me</h3>
 
-### 🖥️ Coding Vibes Right Now:
+- 🔭 I’m currently working on <strong>React + Tailwind Projects</strong>  
+- 🌱 Exploring <strong>AI tools + Frontend integration</strong>  
+- 💬 Ask me about <strong>JavaScript, React.js, CSS3, Tailwind</strong>  
+- ⚡ Fun fact: I love turning Figma designs into real responsive UI  
+- 📫 Reach me at: <strong>bilalahmed009dev@gmail.com</strong>  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 🛠️ Languages & Tools
 <p>
@@ -71,11 +80,5 @@ Simple analog clock using **JavaScript & CSS animations**
 </p>
 
 ---
-
-### 🖥️ Coding Vibes Right Now:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
 
 <p align="center">Thanks for visiting! ⭐️</p>
