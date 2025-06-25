@@ -9,10 +9,10 @@
 
 ### 🔥 About Me
 - 🔭 I’m currently working on **React + Tailwind Projects**
-- 🌱 Exploring **AI tools + Frontend integration**
-- 💬 Ask me about **JavaScript, React.js, CSS3, Tailwind**
+- 🌱 Exploring **AI tools + Frontend integration API,S Integeration**
+- 💬 Ask me about **JavaScript, React.js, CSS3, Tailwind ShadCN Material UI React UI**
 - ⚡ Fun fact: I love turning Figma designs into real responsive UI
-- 📫 Reach me at: **bilalahmed009dev@gmail.com**
+- 📫 Reach me at: **m.bilaljaliyawala@gmail.com**
 
 ---
 
@@ -53,9 +53,22 @@ Simple analog clock using **JavaScript & CSS animations**
 ---
 
 ### 📫 Connect with Me
-- ✉️ **Email:** bilalahmed009dev@gmail.com
-- 🌐 **Portfolio:** [Live Projects](https://my-portfolio-henna-ten-51.vercel.app/)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bilal-raza-0082a8186/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/bilalraza_attari" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+### 🖥️ Coding Vibes Right Now:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 <p align="center">Thanks for visiting! ⭐️</p>
