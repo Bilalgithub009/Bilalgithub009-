@@ -7,13 +7,6 @@
 
 ---
 
----
-
----
-
----
----
-
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -57,6 +50,12 @@
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  </a>
+  <a href="https://firebase.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase" />
+  </a>
+   <a href="https://shadcn.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg" height="40" alt="shadcn" />
   </a>
 </p>
 
