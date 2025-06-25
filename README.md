@@ -16,6 +16,13 @@
 
 ---
 
+
+### 🖥️ Coding Vibes Right Now:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
 ### 🛠️ Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
