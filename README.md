@@ -87,7 +87,7 @@ Simple analog clock using **JavaScript & CSS animations**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bilal-ahmed-a793632b4/" target="_blank">
-    <img src="https://img.shields.io/icon/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
