@@ -11,6 +11,8 @@
 
 ---
 
+---
+
 <table>
   <tr>
     <td width="58%">
@@ -26,12 +28,13 @@
 </td>
 <td align="center" width="42%">
 
-<img src="[[https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)" width="300" alt="dev-coding]" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="developer-coding" />
 
 </td>
   </tr>
 </table>
 
+---
 ---
 
 
