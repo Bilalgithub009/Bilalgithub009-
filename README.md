@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="80%">
     
 <h3>🔥 About Me</h3>
 
