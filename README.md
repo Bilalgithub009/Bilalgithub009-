@@ -12,10 +12,11 @@
 ---
 
 ---
+---
 
 <table>
   <tr>
-    <td width="58%">
+    <td valign="top" width="60%">
 
 <h3>🔥 About Me</h3>
 
@@ -26,13 +27,16 @@
 - 📫 Reach me at: <strong>bilalahmed009dev@gmail.com</strong>  
 
 </td>
-<td align="center" width="42%">
+<td align="center" width="40%">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="developer-coding" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="max-width: 100%; height: auto; border-radius: 10px;" width="280" alt="developer-coding" />
 
 </td>
   </tr>
 </table>
+
+---
+
 
 ---
 ---
